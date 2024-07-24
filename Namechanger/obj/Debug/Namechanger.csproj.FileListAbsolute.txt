@@ -1,0 +1,10 @@
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\bin\Debug\Namechanger.exe.config
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\bin\Debug\Namechanger.exe
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\bin\Debug\Namechanger.pdb
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\obj\Debug\Namechanger.csproj.AssemblyReference.cache
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\obj\Debug\Namechanger.Form1.resources
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\obj\Debug\Namechanger.Properties.Resources.resources
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\obj\Debug\Namechanger.csproj.GenerateResource.cache
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\obj\Debug\Namechanger.csproj.CoreCompileInputs.cache
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\obj\Debug\Namechanger.exe
+C:\Users\Radeon\Desktop\C# GitHub\Namechanger\Namechanger\obj\Debug\Namechanger.pdb
